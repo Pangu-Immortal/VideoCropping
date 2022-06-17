@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+   <com.mill.cropcut.view.VHwCropView
+       android:id="@+id/crop_view"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_marginBottom="100dp"
+       android:layout_gravity="center"
+       android:background="@android:color/black"
+       />
+
+    <com.mill.cropcut.view.VDurationCutView
+        android:id="@+id/cut_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        />
+
+    <Button
+        android:id="@+id/tv_ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="裁切"
+        android:textSize="16dp"
+        />
+
+</FrameLayout>
