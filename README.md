@@ -7,4 +7,4 @@ A video crop demo base by ffmpeg
 
 可以拉取代码直接运行。
 
-<img src="https://github.com/Pangu-Immortal/VideoCropping/blob/main/Screenshot_20220617_163923.png" alt="img" style="zoom:30%;" />
+<img src="https://github.com/Pangu-Immortal/VideoCropping/blob/main/Screenshot_20220617_163923.png" width="20%" height="20%" />
