@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/VideoCropping">Star</a>，关注不迷路 ⭐</b>
+  <b>🌟 如果觉得有帮助，请点击 <a href="https://github.com/Pangu-Immortal/VideoCropping/stargazers">Star</a> 支持一下，关注不迷路！🌟</b>
 </p>
 
 A video crop demo base by ffmpeg
