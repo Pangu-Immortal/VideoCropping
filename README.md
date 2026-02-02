@@ -1,9 +1,9 @@
+
 <div align="center">
 
 ![萌萌计数器](https://count.getloli.com/get/@VideoCropping?theme=rule34)
 
 </div>
-
 
 # VideoCrop
 A video crop demo base by ffmpeg
